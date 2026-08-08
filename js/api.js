@@ -7,7 +7,7 @@
 const CONFIG = {
   // Reemplazar por la URL de implementación de tu Web App de Apps Script.
   // Ejemplo: https://script.google.com/macros/s/AKfycbxXXXXXXXXXXXXXXXX/exec
-  API_URL: 'https://script.google.com/macros/s/AKfycbwlUvKGYgy7k1yrFNSabYn1FreCt16ekZR9a7QyHB-WA9OAcwOr0ejpk8PbeUdMuVX3/exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbysDP-lwQcrKO6AGT2wOgsu6Zjrk7A21zLvSM2GE1Hcb-eu3r7QJotskqrtom6egsrG2A/exec'
 };
 
 const Api = (() => {
